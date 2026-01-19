@@ -1,2 +1,5 @@
-# csd-380
-Course work for - csd-380
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Adam Bailey
+- Kyle Klausen
